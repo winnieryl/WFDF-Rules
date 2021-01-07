@@ -1,2 +1,2 @@
 # WFDF-Rules
-wfdf rules of ultimate frisbee
+WFDF rules of ultimate frisbee. Find the official website here: www.wfdf.sport.
